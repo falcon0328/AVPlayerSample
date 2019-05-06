@@ -1,0 +1,2 @@
+# AVPlayerSample
+AVPlayerのサンプルアプリ
